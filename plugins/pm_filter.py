@@ -401,8 +401,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/AKAutoFilterBot?startgroup=true') 
             ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('Mᴏᴠɪᴇs',url='https://t.me/+OWmhfzgAZLA1MmQ1'),
-            InlineKeyboardButton('ʀᴇqᴜᴇꜱᴛ',url='https://t.me/+U2UIyBr--RBmODhl')
+            InlineKeyboardButton('Mᴏᴠɪᴇs',url='https://t.me/kannnada_Rockers'),
+            InlineKeyboardButton('ʀᴇqᴜᴇꜱᴛ',url='https://t.me/PRkMovies1')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
